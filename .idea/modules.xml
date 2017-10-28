@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AR-Navigation.iml" filepath="$PROJECT_DIR$/AR-Navigation.iml" />
+      <module fileurl="file://D:\Code\Android\AR-Navigation\AR-Navigation\Test.iml" filepath="D:\Code\Android\AR-Navigation\AR-Navigation\Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Code\Android\AR-Navigation\AR-Navigation\app\app.iml" filepath="D:\Code\Android\AR-Navigation\AR-Navigation\app\app.iml" />
     </modules>
   </component>
 </project>
